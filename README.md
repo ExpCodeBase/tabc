@@ -11,7 +11,8 @@
 
 * First, running the code under the path `src` to construct the index for the graph.
 * Then, using this index as input, you can perform query via the constructed index, the detailed commands are as follows.
-Note that we provide the dominant-optimized index construction in the static scenario for simplicity.
+
+*Note that we provide the dominant-optimized index construction in the static scenario for simplicity.*
 
 ### Command Lines
 
