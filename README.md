@@ -1,7 +1,5 @@
 # README #
 
-This is the codebase of Efficient Core Query over Temporal Bipartite Graphs
-
 ## File Organization ##
 
 * **src/bigraph.***: the basic data structure of temporal bipartite graphs
@@ -13,6 +11,7 @@ This is the codebase of Efficient Core Query over Temporal Bipartite Graphs
 
 * First, running the code under the path `src` to construct the index for the graph.
 * Then, using this index as input, you can perform query via the constructed index, the detailed commands are as follows.
+Note that we provide the dominant-optimized index construction in the static scenario for simplicity.
 
 ### Command Lines
 
